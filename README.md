@@ -1,2 +1,2 @@
-# OC
+# Computer Organization
  
